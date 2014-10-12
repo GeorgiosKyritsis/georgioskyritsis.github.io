@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-10-12
-img: data_science.png
+date: 2014-10-11
+img: irrational_behaviour.png
 alt: image-alt
-project-date: April 2014
-category: Data Science
-description: Data Science is a rapidly accelerating field that combines expertise in the management, analysis and visualization of large-scale and complex data. The Johns Hopkins Bloomberg School of Public Health is expanding its open education offerings in this area with a structured and comprehensive Data Science Specialization offered through <a href="https://www.coursera.org/">Coursera</a>, a leading provider of Massive Open Online Courses (MOOCs). <a href="https://www.coursera.org/specialization/jhudatascience/1/">The Data Science Specialization</a> will be taught by professors Brian Caffo, PhD, Jeff Leek, PhD, and Roger Peng, PhD, of the Bloomberg School’s Department of Biostatistics.
+project-date: February 2014
+category: Behavioral Economics
+description: Behavioral economics couples scientific research on the psychology of decision making with economic theory to better understand what motivates financial decisions. In A Beginner’s Guide to Irrational Behavior, you will learn about some of the many ways in which we behave in less than rational ways, and how we might overcome our shortcomings. You’ll also learn about cases where our irrationalities work in our favor, and how we can harness these human tendencies to make better decisions.
 
 ---

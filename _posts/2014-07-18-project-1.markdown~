@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2014-10-12
+img: data_science.png
+alt: image-alt
+project-date: April 2014
+category: Data Science
+description: Data Science is a rapidly accelerating field that combines expertise in the management, analysis and visualization of large-scale and complex data. The Johns Hopkins Bloomberg School of Public Health is expanding its open education offerings in this area with a structured and comprehensive Data Science Specialization offered through Coursera <a href="https://www.coursera.org/">Coursera</a>, a leading provider of Massive Open Online Courses (MOOCs). The Data Science Specialization <a href="https://www.coursera.org/specialization/jhudatascience/1/">Data Science</a> will be taught by professors Brian Caffo, PhD, Jeff Leek, PhD, and Roger Peng, PhD, of the Bloomberg School’s Department of Biostatistics.
+
+---
